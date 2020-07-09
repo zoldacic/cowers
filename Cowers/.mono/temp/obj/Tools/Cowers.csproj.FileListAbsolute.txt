@@ -1,0 +1,6 @@
+C:\srcp\cowers\Cowers\.mono\temp\bin\Tools\Cowers.dll
+C:\srcp\cowers\Cowers\.mono\temp\bin\Tools\Cowers.pdb
+C:\srcp\cowers\Cowers\.mono\temp\obj\Tools\Cowers.csprojAssemblyReference.cache
+C:\srcp\cowers\Cowers\.mono\temp\obj\Tools\Cowers.csproj.CoreCompileInputs.cache
+C:\srcp\cowers\Cowers\.mono\temp\obj\Tools\Cowers.dll
+C:\srcp\cowers\Cowers\.mono\temp\obj\Tools\Cowers.pdb
